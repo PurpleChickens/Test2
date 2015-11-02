@@ -11,5 +11,5 @@ Yet another change!
 1. Make changes.  Put into pull request.
 2. From project page, select pull requests icon on the right.
 3. Select the branch.
-4. To view, hit the compare icon on the right
 5. To merge, just say merge
+6. To compare changes, go stuff
